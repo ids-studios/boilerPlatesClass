@@ -1,4 +1,4 @@
-//Requring node.js filesystem(fs)
+//Requesting node.js filesystem(fs)
 var fileSystem = require('fs');
 //Project foldername input with default name if nothing is passed in
 var foldername = process.argv[2] || 'DefaultProject';
