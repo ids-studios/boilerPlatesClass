@@ -1,4 +1,4 @@
-# boilerPlatesClass
+# Create Project
 JS class to create project with given files as boilerplates, simply modify the CreateProject.js with the files you always use for your projects and run it from node.
 
 ## Usage:
